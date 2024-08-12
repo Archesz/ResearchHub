@@ -1,0 +1,14 @@
+{
+  "name": "findresearch",
+  "version": "1.0.0",
+  "description": "- Objetivo: Interface de usuário para interação com a plataforma.\r - Tecnologias:\r     - Linguagens: HTML5, CSS3, JavaScript,\r     - Frameworks: React.js;\r     - Gerenciamento de Estado: Redux;\r - Funcionalidades:\r     - Cadastro e login de usuários (professores e estudantes);\r     - Painel de controle para professores, estudantes e empresas;\r     - Sistema de busca e filtragem de projetos;\r     - Janela de comunicação entre perfis;\r     - Visualização de projetos e perfis;",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
